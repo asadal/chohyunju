@@ -15,9 +15,9 @@ share: true
 
 # Owner/author information
 owner:
-  name:   CHO.HYUN.JU
+  name: CHO.HYUN.JU
   avatar: gretele-avatar-square.png
-  favicon: favicon.ico
+  favicon: gretele-avatar-square.ico
   info: photography website template
 
 # Settings for comments helper
