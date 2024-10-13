@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: CHO.HYUN.JU
+email: "ppoppoo9@naver.com"
+description: "Cho Hyunju's art gallery"
+url: "https://asadal.github.io"
+baseurl: "/chohyunju"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://asadal.github.io/chohyunju/gallery/"  
+  - JOURNAL: "https://asadal.github.io/chohyunju/journal/"
+  - ABOUT: "https://asadal.github.io/chohyunju/about/"
 
 # All translation keys
 translations:
